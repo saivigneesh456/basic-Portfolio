@@ -1,5 +1,8 @@
 
 # Portfolio
+# live:- https://portifliobasic.netlify.app/
+#      <h1 align="center">                                       **[Live Demo](https://portifliobasic.netlify.app/)** </h1>
+
 ## Technologies Used
 - ReactJS
 - Tailwind CSS
@@ -13,3 +16,4 @@
 - Run npm install to install the dependencies.
 - Run npm start to start the development server.
 - Open http://localhost:3000 in your browser to view the application.
+
